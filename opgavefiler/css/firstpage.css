@@ -1,6 +1,8 @@
 /* opgave 1
-du må erne style din message :)
-*/
+du må gerne style din message :) */
+#message h2 {
+  color: green;
+}
 
 /*opgave 2*/
 #produktListe {
